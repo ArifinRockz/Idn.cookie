@@ -1,0 +1,5 @@
+window.addEventListener("load",function(){window.cookieconsent.initialise({"palette":{"popup":{"background":"#eb6c44","text":"#ffffff"}
+,"button":{"background":"#f5d948"}}
+,"position":"bottom-right","content":{"href":"https://www.tapakrimba.info/p/privacy-policy_21.html"}}
+)}
+);
